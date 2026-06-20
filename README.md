@@ -1,2 +1,2 @@
 # CodeAlpha_chatbot
-This project is a Basic Chatbot developed using Python as part of my internship. The chatbot is designed to interact with users by responding to simple questions and inputs in a conversational way.
+This project is a Basic Chatbot developed using Python as part of my internship. The chatbot is designed to interact with users by responding to simple questions and inputs in a conversational way.It uses basic Python concepts like conditions, loops, and user input to understand and reply to user messages. The project demonstrates how a simple chatbot works and how logic can be used to simulate conversation.
